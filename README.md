@@ -2,6 +2,9 @@
 Some documents that I wrote as part of my TA job at Stanford University.
 
 ### CME 104 - Spring 2018
+
+*Size: 30 students*
+
 I was a TA for Prof. Vadim Khayms' class, CME 104: Linear Algebra and Partial
 Differential Equations for Engineers. This undergraduate class for freshmen
 through seniors taught three weeks of linear algebra (LU decomposition,
@@ -11,6 +14,9 @@ applications with MATLAB incorporated for numerical solutions and
 visualizations.
 
 ### CME 100 - Fall 2018
+
+*Size: 150 students*
+
 I was a TA for Prof. Vadim Khayms' class, CME 100: Vector Calculus for
 Engineers. This undergraduate class has primarily freshmen and sophomores, and
 is a core course that is required by many if not all science and engineering
