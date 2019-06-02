@@ -1,5 +1,5 @@
 # Stanford TA
-Some documents that I wrote as part of my TA job at Stanford University.
+Some documents that I wrote as part of my TA positions at Stanford University.
 
 ### CME 104 - Spring 2018
 
